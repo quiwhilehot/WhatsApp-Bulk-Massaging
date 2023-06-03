@@ -21,10 +21,11 @@
 - Отредактируйте файл `message.txt` с вашим желаемым сообщением.
 - Добавьте номера телефонов в файл `numbers.txt`, по одному номеру на каждой строке.
 2. Запустите скрипт: `main.py`
-3. Следуйте инструкциям в терминале:
+3. В строке `next_delay = random.randint(3, 15)` вы можете задать собственные значения задержки между отправкой сообщений
+4. Следуйте инструкциям в терминале:
 - Войдите в свою учетную запись WhatsApp, отсканировав QR-код в открытом окне браузера.
 - После входа в аккаунт нажмите ENTER, чтобы начать отправку сообщений.
-4. Расслабьтесь и наблюдайте, пока скрипт отправляет сообщения на указанные номера телефонов.
+5. Расслабьтесь и наблюдайте, пока скрипт отправляет сообщения на указанные номера телефонов.
 
 ## Отказ от ответственности
 Пожалуйста, используйте этот скрипт ответственно и уважайте условия использования WhatsApp. Отправка незапрошенных или спам-сообщений строго запрещена и может привести к приостановке вашей учетной записи.
@@ -53,10 +54,11 @@ This script allows you to send bulk messages on WhatsApp using Python. It utiliz
 - Edit the `message.txt` file with your desired message.
 - Add the phone numbers to the `numbers.txt` file, one number per line.
 2. Run the script: `main.py`
-3. Follow the instructions in the terminal:
+3. In the line `next_delay = random.randint(3, 15)` you can set your own values for the delay between sending messages.
+4. Follow the instructions in the terminal:
 - Enter your WhatsApp account by scanning the QR code in the opened browser window.
 - Once logged in, press ENTER to start sending messages.
-4. Sit back and relax while the script sends your messages to the specified phone numbers.
+5. Sit back and relax while the script sends your messages to the specified phone numbers.
 
 ## Disclaimer
 Please use this script responsibly and respect the terms of service of WhatsApp. Sending unsolicited or spam messages is strictly prohibited and may result in account suspension.

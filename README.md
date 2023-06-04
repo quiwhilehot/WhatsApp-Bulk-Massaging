@@ -31,7 +31,7 @@
 Пожалуйста, используйте этот скрипт ответственно и уважайте условия использования WhatsApp. Отправка незапрошенных или спам-сообщений строго запрещена и может привести к приостановке вашей учетной записи.
 
 Благо дарим [тут](https://oplata.qiwi.com/form?invoiceUid=b41f76b2-3a89-475f-995d-64c9f7eb1e94)
-За основу взят код [товарища](https://github.com/anirudhbagri/whatsapp-bulk-messenger)
+За основу взят код [anirudhbagri](https://github.com/anirudhbagri)
 
 # WhatsApp Bulk Messaging Script
 
@@ -66,4 +66,4 @@ This script allows you to send bulk messages on WhatsApp using Python. It utiliz
 ## Disclaimer
 Please use this script responsibly and respect the terms of service of WhatsApp. Sending unsolicited or spam messages is strictly prohibited and may result in account suspension.
 donate for donat [here](https://oplata.qiwi.com/form?invoiceUid=b41f76b2-3a89-475f-995d-64c9f7eb1e94)
-Main code [here](https://github.com/anirudhbagri/whatsapp-bulk-messenger)
+Main code [anirudhbagri](https://github.com/anirudhbagri)
